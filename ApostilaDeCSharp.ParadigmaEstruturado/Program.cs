@@ -46,7 +46,7 @@ namespace ApostilaDeCSharp.ParadigmaEstruturado
                 repetir = Console.ReadLine().ToUpper();
 
 
-            } while (!repetir.Equals("SIM"));//         CDSFF     
+            } while (!repetir.Equals("SIM"));  
 
             Console.ReadKey();
 
