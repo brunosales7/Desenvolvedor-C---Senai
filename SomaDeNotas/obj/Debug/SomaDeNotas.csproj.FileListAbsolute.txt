@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\bin\Debug\SomaDeNotas.exe.config
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\bin\Debug\SomaDeNotas.exe
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\bin\Debug\SomaDeNotas.pdb
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\obj\Debug\SomaDeNotas.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\obj\Debug\SomaDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\obj\Debug\SomaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\obj\Debug\SomaDeNotas.exe
+C:\Users\Aluno\source\repos\ApostilaDeCSharp\SomaDeNotas\obj\Debug\SomaDeNotas.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.ParadigmaEstruturado", "ApostilaDeCSharp.ParadigmaEstruturado\ApostilaDeCSharp.ParadigmaEstruturado.csproj", "{A6E9F00A-FA5A-4CC2-9638-79DEFDF6865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaDeNotas", "SomaDeNotas\SomaDeNotas.csproj", "{CD7B3B1F-59D2-4114-B0FC-D04A534BE3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E9F00A-FA5A-4CC2-9638-79DEFDF6865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E9F00A-FA5A-4CC2-9638-79DEFDF6865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E9F00A-FA5A-4CC2-9638-79DEFDF6865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E9F00A-FA5A-4CC2-9638-79DEFDF6865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7B3B1F-59D2-4114-B0FC-D04A534BE3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7B3B1F-59D2-4114-B0FC-D04A534BE3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7B3B1F-59D2-4114-B0FC-D04A534BE3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7B3B1F-59D2-4114-B0FC-D04A534BE3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4640B6-AFA2-4DDA-918E-81B02541EF39}
+	EndGlobalSection
+EndGlobal
